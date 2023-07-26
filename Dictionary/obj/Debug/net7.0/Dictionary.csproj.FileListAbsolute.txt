@@ -1,0 +1,15 @@
+C:\Users\Arif Kemal\Documents\Sites\C#\Dictionary\obj\Debug\net7.0\Dictionary.csproj.AssemblyReference.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\Dictionary\obj\Debug\net7.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arif Kemal\Documents\Sites\C#\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfo.cs
+C:\Users\Arif Kemal\Documents\Sites\C#\Dictionary\obj\Debug\net7.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\Dictionary\bin\Debug\net7.0\Dictionary.exe
+C:\Users\Arif Kemal\Documents\Sites\C#\Dictionary\bin\Debug\net7.0\Dictionary.deps.json
+C:\Users\Arif Kemal\Documents\Sites\C#\Dictionary\bin\Debug\net7.0\Dictionary.runtimeconfig.json
+C:\Users\Arif Kemal\Documents\Sites\C#\Dictionary\bin\Debug\net7.0\Dictionary.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\Dictionary\bin\Debug\net7.0\Dictionary.pdb
+C:\Users\Arif Kemal\Documents\Sites\C#\Dictionary\obj\Debug\net7.0\Dictionary.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\Dictionary\obj\Debug\net7.0\refint\Dictionary.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\Dictionary\obj\Debug\net7.0\Dictionary.pdb
+C:\Users\Arif Kemal\Documents\Sites\C#\Dictionary\obj\Debug\net7.0\Dictionary.genruntimeconfig.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\Dictionary\obj\Debug\net7.0\ref\Dictionary.dll

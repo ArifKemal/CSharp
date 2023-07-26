@@ -1,0 +1,15 @@
+C:\Users\Arif Kemal\Documents\Sites\C#\Array-Sınıfı-Methodları\obj\Debug\net7.0\Array-Sınıfı-Methodları.csproj.AssemblyReference.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\Array-Sınıfı-Methodları\obj\Debug\net7.0\Array-Sınıfı-Methodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arif Kemal\Documents\Sites\C#\Array-Sınıfı-Methodları\obj\Debug\net7.0\Array-Sınıfı-Methodları.AssemblyInfoInputs.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\Array-Sınıfı-Methodları\obj\Debug\net7.0\Array-Sınıfı-Methodları.AssemblyInfo.cs
+C:\Users\Arif Kemal\Documents\Sites\C#\Array-Sınıfı-Methodları\obj\Debug\net7.0\Array-Sınıfı-Methodları.csproj.CoreCompileInputs.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\Array-Sınıfı-Methodları\bin\Debug\net7.0\Array-Sınıfı-Methodları.exe
+C:\Users\Arif Kemal\Documents\Sites\C#\Array-Sınıfı-Methodları\bin\Debug\net7.0\Array-Sınıfı-Methodları.deps.json
+C:\Users\Arif Kemal\Documents\Sites\C#\Array-Sınıfı-Methodları\bin\Debug\net7.0\Array-Sınıfı-Methodları.runtimeconfig.json
+C:\Users\Arif Kemal\Documents\Sites\C#\Array-Sınıfı-Methodları\bin\Debug\net7.0\Array-Sınıfı-Methodları.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\Array-Sınıfı-Methodları\bin\Debug\net7.0\Array-Sınıfı-Methodları.pdb
+C:\Users\Arif Kemal\Documents\Sites\C#\Array-Sınıfı-Methodları\obj\Debug\net7.0\Array-Sınıfı-Methodları.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\Array-Sınıfı-Methodları\obj\Debug\net7.0\refint\Array-Sınıfı-Methodları.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\Array-Sınıfı-Methodları\obj\Debug\net7.0\Array-Sınıfı-Methodları.pdb
+C:\Users\Arif Kemal\Documents\Sites\C#\Array-Sınıfı-Methodları\obj\Debug\net7.0\Array-Sınıfı-Methodları.genruntimeconfig.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\Array-Sınıfı-Methodları\obj\Debug\net7.0\ref\Array-Sınıfı-Methodları.dll

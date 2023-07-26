@@ -1,0 +1,15 @@
+C:\Users\Arif Kemal\Documents\Sites\C#\Switch-Case\obj\Debug\net7.0\Switch-Case.csproj.AssemblyReference.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\Switch-Case\obj\Debug\net7.0\Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arif Kemal\Documents\Sites\C#\Switch-Case\obj\Debug\net7.0\Switch-Case.AssemblyInfoInputs.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\Switch-Case\obj\Debug\net7.0\Switch-Case.AssemblyInfo.cs
+C:\Users\Arif Kemal\Documents\Sites\C#\Switch-Case\obj\Debug\net7.0\Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\Switch-Case\bin\Debug\net7.0\Switch-Case.exe
+C:\Users\Arif Kemal\Documents\Sites\C#\Switch-Case\bin\Debug\net7.0\Switch-Case.deps.json
+C:\Users\Arif Kemal\Documents\Sites\C#\Switch-Case\bin\Debug\net7.0\Switch-Case.runtimeconfig.json
+C:\Users\Arif Kemal\Documents\Sites\C#\Switch-Case\bin\Debug\net7.0\Switch-Case.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\Switch-Case\bin\Debug\net7.0\Switch-Case.pdb
+C:\Users\Arif Kemal\Documents\Sites\C#\Switch-Case\obj\Debug\net7.0\Switch-Case.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\Switch-Case\obj\Debug\net7.0\refint\Switch-Case.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\Switch-Case\obj\Debug\net7.0\Switch-Case.pdb
+C:\Users\Arif Kemal\Documents\Sites\C#\Switch-Case\obj\Debug\net7.0\Switch-Case.genruntimeconfig.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\Switch-Case\obj\Debug\net7.0\ref\Switch-Case.dll

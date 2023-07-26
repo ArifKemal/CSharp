@@ -1,0 +1,15 @@
+C:\Users\Arif Kemal\Documents\Sites\C#\try catch finally\obj\Debug\net7.0\try catch finally.csproj.AssemblyReference.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\try catch finally\obj\Debug\net7.0\try catch finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arif Kemal\Documents\Sites\C#\try catch finally\obj\Debug\net7.0\try catch finally.AssemblyInfoInputs.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\try catch finally\obj\Debug\net7.0\try catch finally.AssemblyInfo.cs
+C:\Users\Arif Kemal\Documents\Sites\C#\try catch finally\obj\Debug\net7.0\try catch finally.csproj.CoreCompileInputs.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\try catch finally\bin\Debug\net7.0\try catch finally.exe
+C:\Users\Arif Kemal\Documents\Sites\C#\try catch finally\bin\Debug\net7.0\try catch finally.deps.json
+C:\Users\Arif Kemal\Documents\Sites\C#\try catch finally\bin\Debug\net7.0\try catch finally.runtimeconfig.json
+C:\Users\Arif Kemal\Documents\Sites\C#\try catch finally\bin\Debug\net7.0\try catch finally.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\try catch finally\bin\Debug\net7.0\try catch finally.pdb
+C:\Users\Arif Kemal\Documents\Sites\C#\try catch finally\obj\Debug\net7.0\try catch finally.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\try catch finally\obj\Debug\net7.0\refint\try catch finally.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\try catch finally\obj\Debug\net7.0\try catch finally.pdb
+C:\Users\Arif Kemal\Documents\Sites\C#\try catch finally\obj\Debug\net7.0\try catch finally.genruntimeconfig.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\try catch finally\obj\Debug\net7.0\ref\try catch finally.dll

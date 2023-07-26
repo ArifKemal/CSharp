@@ -1,0 +1,15 @@
+C:\Users\Arif Kemal\Documents\Sites\C#\Rekürsif ve Extension Metotlar\bin\Debug\net7.0\Rekürsif ve Extension Metotlar.exe
+C:\Users\Arif Kemal\Documents\Sites\C#\Rekürsif ve Extension Metotlar\bin\Debug\net7.0\Rekürsif ve Extension Metotlar.deps.json
+C:\Users\Arif Kemal\Documents\Sites\C#\Rekürsif ve Extension Metotlar\bin\Debug\net7.0\Rekürsif ve Extension Metotlar.runtimeconfig.json
+C:\Users\Arif Kemal\Documents\Sites\C#\Rekürsif ve Extension Metotlar\bin\Debug\net7.0\Rekürsif ve Extension Metotlar.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\Rekürsif ve Extension Metotlar\bin\Debug\net7.0\Rekürsif ve Extension Metotlar.pdb
+C:\Users\Arif Kemal\Documents\Sites\C#\Rekürsif ve Extension Metotlar\obj\Debug\net7.0\Rekürsif ve Extension Metotlar.csproj.AssemblyReference.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\Rekürsif ve Extension Metotlar\obj\Debug\net7.0\Rekürsif ve Extension Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arif Kemal\Documents\Sites\C#\Rekürsif ve Extension Metotlar\obj\Debug\net7.0\Rekürsif ve Extension Metotlar.AssemblyInfoInputs.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\Rekürsif ve Extension Metotlar\obj\Debug\net7.0\Rekürsif ve Extension Metotlar.AssemblyInfo.cs
+C:\Users\Arif Kemal\Documents\Sites\C#\Rekürsif ve Extension Metotlar\obj\Debug\net7.0\Rekürsif ve Extension Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\Rekürsif ve Extension Metotlar\obj\Debug\net7.0\Rekürsif ve Extension Metotlar.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\Rekürsif ve Extension Metotlar\obj\Debug\net7.0\refint\Rekürsif ve Extension Metotlar.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\Rekürsif ve Extension Metotlar\obj\Debug\net7.0\Rekürsif ve Extension Metotlar.pdb
+C:\Users\Arif Kemal\Documents\Sites\C#\Rekürsif ve Extension Metotlar\obj\Debug\net7.0\Rekürsif ve Extension Metotlar.genruntimeconfig.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\Rekürsif ve Extension Metotlar\obj\Debug\net7.0\ref\Rekürsif ve Extension Metotlar.dll

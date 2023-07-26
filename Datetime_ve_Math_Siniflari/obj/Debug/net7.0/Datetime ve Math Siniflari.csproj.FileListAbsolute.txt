@@ -1,0 +1,15 @@
+C:\Users\Arif Kemal\Documents\Sites\C#\Datetime ve Math Siniflari\bin\Debug\net7.0\Datetime ve Math Siniflari.exe
+C:\Users\Arif Kemal\Documents\Sites\C#\Datetime ve Math Siniflari\bin\Debug\net7.0\Datetime ve Math Siniflari.deps.json
+C:\Users\Arif Kemal\Documents\Sites\C#\Datetime ve Math Siniflari\bin\Debug\net7.0\Datetime ve Math Siniflari.runtimeconfig.json
+C:\Users\Arif Kemal\Documents\Sites\C#\Datetime ve Math Siniflari\bin\Debug\net7.0\Datetime ve Math Siniflari.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\Datetime ve Math Siniflari\bin\Debug\net7.0\Datetime ve Math Siniflari.pdb
+C:\Users\Arif Kemal\Documents\Sites\C#\Datetime ve Math Siniflari\obj\Debug\net7.0\Datetime ve Math Siniflari.csproj.AssemblyReference.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\Datetime ve Math Siniflari\obj\Debug\net7.0\Datetime ve Math Siniflari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arif Kemal\Documents\Sites\C#\Datetime ve Math Siniflari\obj\Debug\net7.0\Datetime ve Math Siniflari.AssemblyInfoInputs.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\Datetime ve Math Siniflari\obj\Debug\net7.0\Datetime ve Math Siniflari.AssemblyInfo.cs
+C:\Users\Arif Kemal\Documents\Sites\C#\Datetime ve Math Siniflari\obj\Debug\net7.0\Datetime ve Math Siniflari.csproj.CoreCompileInputs.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\Datetime ve Math Siniflari\obj\Debug\net7.0\Datetime ve Math Siniflari.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\Datetime ve Math Siniflari\obj\Debug\net7.0\refint\Datetime ve Math Siniflari.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\Datetime ve Math Siniflari\obj\Debug\net7.0\Datetime ve Math Siniflari.pdb
+C:\Users\Arif Kemal\Documents\Sites\C#\Datetime ve Math Siniflari\obj\Debug\net7.0\Datetime ve Math Siniflari.genruntimeconfig.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\Datetime ve Math Siniflari\obj\Debug\net7.0\ref\Datetime ve Math Siniflari.dll

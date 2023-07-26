@@ -1,0 +1,15 @@
+C:\Users\Arif Kemal\Documents\Sites\C#\ArrayList\bin\Debug\net7.0\ArrayList.exe
+C:\Users\Arif Kemal\Documents\Sites\C#\ArrayList\bin\Debug\net7.0\ArrayList.deps.json
+C:\Users\Arif Kemal\Documents\Sites\C#\ArrayList\bin\Debug\net7.0\ArrayList.runtimeconfig.json
+C:\Users\Arif Kemal\Documents\Sites\C#\ArrayList\bin\Debug\net7.0\ArrayList.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\ArrayList\bin\Debug\net7.0\ArrayList.pdb
+C:\Users\Arif Kemal\Documents\Sites\C#\ArrayList\obj\Debug\net7.0\ArrayList.csproj.AssemblyReference.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\ArrayList\obj\Debug\net7.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arif Kemal\Documents\Sites\C#\ArrayList\obj\Debug\net7.0\ArrayList.AssemblyInfoInputs.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\ArrayList\obj\Debug\net7.0\ArrayList.AssemblyInfo.cs
+C:\Users\Arif Kemal\Documents\Sites\C#\ArrayList\obj\Debug\net7.0\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\ArrayList\obj\Debug\net7.0\ArrayList.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\ArrayList\obj\Debug\net7.0\refint\ArrayList.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\ArrayList\obj\Debug\net7.0\ArrayList.pdb
+C:\Users\Arif Kemal\Documents\Sites\C#\ArrayList\obj\Debug\net7.0\ArrayList.genruntimeconfig.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\ArrayList\obj\Debug\net7.0\ref\ArrayList.dll

@@ -1,0 +1,15 @@
+C:\Users\Arif Kemal\Documents\Sites\C#\dönüşümler\bin\Debug\net7.0\dönüşümler.exe
+C:\Users\Arif Kemal\Documents\Sites\C#\dönüşümler\bin\Debug\net7.0\dönüşümler.deps.json
+C:\Users\Arif Kemal\Documents\Sites\C#\dönüşümler\bin\Debug\net7.0\dönüşümler.runtimeconfig.json
+C:\Users\Arif Kemal\Documents\Sites\C#\dönüşümler\bin\Debug\net7.0\dönüşümler.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\dönüşümler\bin\Debug\net7.0\dönüşümler.pdb
+C:\Users\Arif Kemal\Documents\Sites\C#\dönüşümler\obj\Debug\net7.0\dönüşümler.csproj.AssemblyReference.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\dönüşümler\obj\Debug\net7.0\dönüşümler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arif Kemal\Documents\Sites\C#\dönüşümler\obj\Debug\net7.0\dönüşümler.AssemblyInfoInputs.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\dönüşümler\obj\Debug\net7.0\dönüşümler.AssemblyInfo.cs
+C:\Users\Arif Kemal\Documents\Sites\C#\dönüşümler\obj\Debug\net7.0\dönüşümler.csproj.CoreCompileInputs.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\dönüşümler\obj\Debug\net7.0\dönüşümler.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\dönüşümler\obj\Debug\net7.0\refint\dönüşümler.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\dönüşümler\obj\Debug\net7.0\dönüşümler.pdb
+C:\Users\Arif Kemal\Documents\Sites\C#\dönüşümler\obj\Debug\net7.0\dönüşümler.genruntimeconfig.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\dönüşümler\obj\Debug\net7.0\ref\dönüşümler.dll

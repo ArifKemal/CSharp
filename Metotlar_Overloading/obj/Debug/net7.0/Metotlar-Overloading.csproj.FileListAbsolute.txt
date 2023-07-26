@@ -1,0 +1,15 @@
+C:\Users\Arif Kemal\Documents\Sites\C#\Metotlar-Overloading\obj\Debug\net7.0\Metotlar-Overloading.csproj.AssemblyReference.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\Metotlar-Overloading\obj\Debug\net7.0\Metotlar-Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arif Kemal\Documents\Sites\C#\Metotlar-Overloading\obj\Debug\net7.0\Metotlar-Overloading.AssemblyInfoInputs.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\Metotlar-Overloading\obj\Debug\net7.0\Metotlar-Overloading.AssemblyInfo.cs
+C:\Users\Arif Kemal\Documents\Sites\C#\Metotlar-Overloading\obj\Debug\net7.0\Metotlar-Overloading.csproj.CoreCompileInputs.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\Metotlar-Overloading\bin\Debug\net7.0\Metotlar-Overloading.exe
+C:\Users\Arif Kemal\Documents\Sites\C#\Metotlar-Overloading\bin\Debug\net7.0\Metotlar-Overloading.deps.json
+C:\Users\Arif Kemal\Documents\Sites\C#\Metotlar-Overloading\bin\Debug\net7.0\Metotlar-Overloading.runtimeconfig.json
+C:\Users\Arif Kemal\Documents\Sites\C#\Metotlar-Overloading\bin\Debug\net7.0\Metotlar-Overloading.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\Metotlar-Overloading\bin\Debug\net7.0\Metotlar-Overloading.pdb
+C:\Users\Arif Kemal\Documents\Sites\C#\Metotlar-Overloading\obj\Debug\net7.0\Metotlar-Overloading.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\Metotlar-Overloading\obj\Debug\net7.0\refint\Metotlar-Overloading.dll
+C:\Users\Arif Kemal\Documents\Sites\C#\Metotlar-Overloading\obj\Debug\net7.0\Metotlar-Overloading.pdb
+C:\Users\Arif Kemal\Documents\Sites\C#\Metotlar-Overloading\obj\Debug\net7.0\Metotlar-Overloading.genruntimeconfig.cache
+C:\Users\Arif Kemal\Documents\Sites\C#\Metotlar-Overloading\obj\Debug\net7.0\ref\Metotlar-Overloading.dll

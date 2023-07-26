@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Datetime ve Math Siniflari/1.0.0": {
+        "runtime": {
+          "Datetime ve Math Siniflari.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Datetime ve Math Siniflari/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
