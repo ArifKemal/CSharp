@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Sinif_Instance_ Field_Property/1.0.0": {
+        "runtime": {
+          "Sinif_Instance_ Field_Property.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sinif_Instance_ Field_Property/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
