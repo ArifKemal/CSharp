@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Inheritance
-build_property.ProjectDir = c:\Users\Arif Kemal\Documents\Sites\CSharp\Inheritance\
+build_property.RootNamespace = Interface
+build_property.ProjectDir = c:\Users\Arif Kemal\Documents\Sites\CSharp\Interface\
