@@ -1,0 +1,15 @@
+C:\Users\Arif Kemal\Documents\Sites\CSharp\Interface_Ornek\bin\Debug\net7.0\Interface_Ornek.exe
+C:\Users\Arif Kemal\Documents\Sites\CSharp\Interface_Ornek\bin\Debug\net7.0\Interface_Ornek.deps.json
+C:\Users\Arif Kemal\Documents\Sites\CSharp\Interface_Ornek\bin\Debug\net7.0\Interface_Ornek.runtimeconfig.json
+C:\Users\Arif Kemal\Documents\Sites\CSharp\Interface_Ornek\bin\Debug\net7.0\Interface_Ornek.dll
+C:\Users\Arif Kemal\Documents\Sites\CSharp\Interface_Ornek\bin\Debug\net7.0\Interface_Ornek.pdb
+C:\Users\Arif Kemal\Documents\Sites\CSharp\Interface_Ornek\obj\Debug\net7.0\Interface_Ornek.csproj.AssemblyReference.cache
+C:\Users\Arif Kemal\Documents\Sites\CSharp\Interface_Ornek\obj\Debug\net7.0\Interface_Ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arif Kemal\Documents\Sites\CSharp\Interface_Ornek\obj\Debug\net7.0\Interface_Ornek.AssemblyInfoInputs.cache
+C:\Users\Arif Kemal\Documents\Sites\CSharp\Interface_Ornek\obj\Debug\net7.0\Interface_Ornek.AssemblyInfo.cs
+C:\Users\Arif Kemal\Documents\Sites\CSharp\Interface_Ornek\obj\Debug\net7.0\Interface_Ornek.csproj.CoreCompileInputs.cache
+C:\Users\Arif Kemal\Documents\Sites\CSharp\Interface_Ornek\obj\Debug\net7.0\Interface_Ornek.dll
+C:\Users\Arif Kemal\Documents\Sites\CSharp\Interface_Ornek\obj\Debug\net7.0\refint\Interface_Ornek.dll
+C:\Users\Arif Kemal\Documents\Sites\CSharp\Interface_Ornek\obj\Debug\net7.0\Interface_Ornek.pdb
+C:\Users\Arif Kemal\Documents\Sites\CSharp\Interface_Ornek\obj\Debug\net7.0\Interface_Ornek.genruntimeconfig.cache
+C:\Users\Arif Kemal\Documents\Sites\CSharp\Interface_Ornek\obj\Debug\net7.0\ref\Interface_Ornek.dll
